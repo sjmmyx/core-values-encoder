@@ -15,7 +15,7 @@ import "babel-polyfill";
     }
 
     // const values = '富强民主文明和谐自由平等公正法治爱国敬业诚信友善';
-    const values = '傕蓦憌驁驱罠匿菝秆畅岌跮欍烸痵恱鼂较予鏧儃螔踆茆捚銪霉休锾謉憬訦昶敠勝燤潥泻懅祉蜵垻啉陆表轻壣寤靂珙孿歪枷恸穸跴鼯顙碲翼垧柝狫偣鑧螊邩蕘谗對鍾穐饱罚牊溍砑鷂矋橑槕鮵哌陃提銘鳱舶廣軦矺詿毢耤浼难媒';
+    const values = '傕贎徧縘嫗撬胚紦胺瓼鴲';
     function str2utf8(str){
         // return in hex
     
